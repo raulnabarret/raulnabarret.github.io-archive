@@ -23,13 +23,14 @@ body {
 
 .container-title {
 	padding: 1% 0;
-	color: #404040;
+	color: #333333;
 	font-weight: 700;
 	font-size: 1.5em;
 	text-indent: 5%;
 }
 
 .container-text {
+	color: #404040;
 	padding: 10px 0;
 	text-indent: 5%;
 }
@@ -60,10 +61,16 @@ body {
 	display: inline-block;
 }
 
+
 footer {
 	height: 100px;
 	background: #666666;
 	/*background: #aaaaaa;*/
+}
+
+.footer-column {
+	display: inline-block;
+	padding: 10px 0px 0 75px;
 }
 
 .header {
@@ -89,6 +96,20 @@ footer {
 
 .header h3 {
 	font-weight: 400;
+}
+
+.languages-logo {
+	border-radius: 10%;
+	height: 60px;
+	width: 75px;
+}
+
+.languages-description {
+	font-size: 1.3em;
+}
+
+.languages-title {
+	font-weight: 700;
 }
 
 .menu {
@@ -126,6 +147,7 @@ p {
 }
 
 #p-introduction {
+	color: #333333;
 	padding: 3% 0;
 	font-weight: 400;
 	font-size: 1.4em;
@@ -160,6 +182,27 @@ p {
 
 .studies-description, .studies-logo {
 	display: inline-block;
+}
+
+.socialnetworks-description {
+	padding: 0.5em;
+	font-size: 1.3em;
+	font-weight: 700;
+}
+
+.socialnetworks-description a {
+	text-decoration: none;
+
+}
+
+.socialnetworks-logo, .socialnetworks-description {
+	display: inline-block;
+}
+
+.socialnetworks-logo {
+	height: 30px;
+	width: 30px;
+
 }
 
 
