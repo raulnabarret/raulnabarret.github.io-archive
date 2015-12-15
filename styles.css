@@ -1,3 +1,6 @@
+html {
+	font-family: "Lato";
+}
 .avatar {
 	border: 3px solid;
 	border-radius: 50%;
@@ -18,13 +21,16 @@ body {
 }
 
 .container-title {
+	color: #404040;
+	font-weight: 700;
 	text-indent: 5%;
 
 }
 
 footer {
 	height: 100px;
-	background: #aaaaaa;
+	background: #666666;
+	/*background: #aaaaaa;*/
 }
 
 .header {
