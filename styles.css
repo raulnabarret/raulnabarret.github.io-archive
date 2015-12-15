@@ -158,6 +158,9 @@ p {
 	font-size: 1.3em;
 }
 
+.studies-description, .studies-logo {
+	display: inline-block;
+}
 
 
 
