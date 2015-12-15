@@ -13,6 +13,15 @@ body {
 	width: 100%;
 }
 
+.container {
+	background: #eeeeee;
+}
+
+.container-title {
+	text-indent: 5%;
+
+}
+
 footer {
 	height: 100px;
 	background: #aaaaaa;
@@ -49,6 +58,7 @@ footer {
 
 .menu-item {
 	float: right;
+	margin-top: 0.2%;
 	display: inline-block;
 }
 
@@ -56,8 +66,8 @@ nav ul li a {
 	font-weight: 700;
 	font-size: 1.2em;
 	color: #eeeeee;
-	padding: 12px 5px;
-	margin: 5px 15px;
+	padding: 15px 5px;
+	margin: 1px 10px;
 	text-decoration: none;
 }
 
@@ -67,12 +77,11 @@ nav ul li a:hover {
 
 .navigation {
 	background: #005288;
-	height: 10%;
+	height: 60px;
 	position: fixed;
 	width: 100%;
 }
-section {
-	background: #eeeeee;
-}
+
+
 
 
