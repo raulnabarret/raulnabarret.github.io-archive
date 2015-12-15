@@ -33,6 +33,33 @@ body {
 	padding: 10px 0;
 	text-indent: 5%;
 }
+
+.course-logo {
+	border-radius: 10%;
+	height: 75px;
+	width: 75px;
+}
+
+.course-description {
+	font-size: 1.3em;
+}
+
+.course-title {
+	font-weight: 700;
+}
+
+.course-date {
+	font-size: 400;
+}
+
+.course-download {
+	font-size: 100;
+}
+
+.course-logo, .course-description {
+	display: inline-block;
+}
+
 footer {
 	height: 100px;
 	background: #666666;
@@ -103,17 +130,11 @@ p {
 	font-weight: 400;
 	font-size: 1.3em;
 	text-align: center;
+	text-indent: 0;
 	font-style: italic; 
 }
 
-.course-logo {
-	height: 50px;
-	width: 50px;
-}
 
-.course-logo, .course-description {
-	display: inline-block;
-}
 
 
 
