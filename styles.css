@@ -2,6 +2,7 @@ html {
 	font-family: "Lato";
 	font-size: 16px;
 }
+
 .avatar {
 	border: 3px solid;
 	border-radius: 50%;
@@ -61,16 +62,16 @@ body {
 	display: inline-block;
 }
 
+.course .icon-award-fill {
+	color: gray;
+}
 
 footer {
 	height: 100px;
 	background: #666666;
+	text-align: center;
+	vertical-align: top;
 	/*background: #aaaaaa;*/
-}
-
-.footer-column {
-	display: inline-block;
-	padding: 10px 0px 0 75px;
 }
 
 .header {
@@ -162,12 +163,10 @@ p {
 
 .studies-date {
 	font-weight: 300;
-
 }
 
 .studies-university {
 	font-weight: 400;
-
 }
 
 .studies-logo {
@@ -185,24 +184,14 @@ p {
 }
 
 .socialnetworks-description {
-	padding: 0.5em;
-	font-size: 1.3em;
-	font-weight: 700;
-}
-
-.socialnetworks-description a {
-	text-decoration: none;
-
-}
-
-.socialnetworks-logo, .socialnetworks-description {
 	display: inline-block;
 }
 
 .socialnetworks-logo {
+	border-radius: 10%;
+	display: inline-block;
 	height: 30px;
 	width: 30px;
-
 }
 
 
