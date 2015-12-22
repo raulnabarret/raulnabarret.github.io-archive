@@ -256,6 +256,10 @@ p {
 		font-size: 30px;
 		float: right;
 	}
+
+	.course-logo, .course-description {
+	display: block;
+}
 }
 	/*
 
