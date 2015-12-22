@@ -262,8 +262,16 @@ p {
 	}
 
 	.course-logo, .course-description {
-	display: block;
-}
+		display: block;
+	}
+
+	.studies-description, .studies-logo {
+		display: block;
+	}
+
+	.studies-logo {
+		padding-left: 5%;
+	}
 }
 	/*
 
