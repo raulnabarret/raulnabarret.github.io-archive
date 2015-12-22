@@ -257,21 +257,8 @@ p {
 		float: right;
 	}
 
-	.course-logo {
-		padding-left: 5%;
-	}
 
-	.course-logo, .course-description {
-		display: block;
-	}
 
-	.studies-description, .studies-logo {
-		display: block;
-	}
-
-	.studies-logo {
-		padding-left: 5%;
-	}
 }
 	/*
 
