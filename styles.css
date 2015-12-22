@@ -206,6 +206,7 @@ p {
 		position: fixed;
 		width: 80%;
 		height: 100%;
+		left: -100%;
 		margin: 0;
 		padding: 60px 0 0 0;
 	}
