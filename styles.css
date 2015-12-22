@@ -257,6 +257,10 @@ p {
 		float: right;
 	}
 
+	.course-logo {
+		padding-left: 5%;
+	}
+
 	.course-logo, .course-description {
 	display: block;
 }
