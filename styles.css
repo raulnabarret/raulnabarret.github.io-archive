@@ -203,6 +203,18 @@ p {
 	html {
 		font-size: 12px;
 	}
+
+	.course-description {
+		font-size: 1.5em;
+	}
+
+	.languages-description {
+		font-size: 1.5em;
+	}
+
+	.studies-description {
+		font-size: 1.5em;
+	}
 	
 	.navigation {
 
