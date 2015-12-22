@@ -117,6 +117,10 @@ footer {
 	text-decoration: none;
 }
 
+	.menu-mobile-icon {
+	display: none;
+}
+
 .menu-item {
 	float: right;
 	margin-top: 0.2%;
@@ -193,6 +197,85 @@ p {
 	height: 30px;
 	width: 30px;
 }
+
+@media screen and (max-width: 800px) {
+	
+	.navigation {
+
+		background: #005288;
+		position: fixed;
+		width: 80%;
+		height: 100%;
+		margin: 0;
+		padding: 60px 0 0 0;
+	}
+
+	.menu {
+		margin: 0;
+		padding: 0;
+	}
+
+	.menu-item {
+		margin-top: 0.2%;
+		display: block;
+		padding: 2% 0 2% 0;
+		float: none;
+		border-bottom: 1px solid white;
+		width: 100%;
+	}
+
+	nav ul li a:hover {
+		border-top: none;
+	}
+
+	.menu-mobile-icon {
+		position: fixed;
+		display: block;
+		height: 60px;
+		width: 100%;
+		background: #005288;
+	}
+
+	.menu-mobile-icon .menu-boton {
+		display: block;
+		background: #005288;
+		font-weight: bold;
+		float: right;
+		font-size: 20px;
+		text-decoration: none;
+		color: white;
+	}
+
+	.menu-mobile-icon span {
+		padding: 15px;
+		font-size: 30px;
+		float: right;
+	}
+}
+	/*
+
+	.menu_bar {
+		display: block;
+		width: 100%;
+		background: gray; 
+	}
+
+	.menu_bar .boton-menu {
+		display: block;
+		padding: 20px;
+		background: gray;
+		font-weight: bold;
+		text-decoration: none;
+		color: white;
+	}
+
+	.menu_bar span {
+		padding-bottom: 25px;
+		font-size: 15px;
+		float: right;
+	}
+} */
+
 
 
 
