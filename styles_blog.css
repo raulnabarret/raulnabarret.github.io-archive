@@ -1,0 +1,203 @@
+html {
+	font-family: "Lato";
+	font-size: 16px;
+}
+
+.avatar {
+	border: 3px solid;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+	height: 150px;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	background: #eeeeee;
+	height: 400px;
+}
+
+.container h1 {
+	margin: 0;
+	text-align: center;
+
+}
+
+.container-title {
+	padding: 1% 0;
+	color: #333333;
+	font-weight: 700;
+	font-size: 1.5em;
+	text-indent: 5%;
+}
+
+.container-text {
+	color: #404040;
+	padding: 10px 0;
+	text-indent: 5%;
+}
+
+.course-logo {
+	border-radius: 10%;
+	height: 75px;
+	width: 75px;
+}
+
+.course-description {
+	font-size: 1.3em;
+}
+
+.course-title {
+	font-weight: 700;
+}
+
+.course-date {
+	font-size: 400;
+}
+
+.course-download {
+	font-size: 300;
+}
+
+.course-logo, .course-description {
+	display: inline-block;
+}
+
+.course .icon-award-fill {
+	color: gray;
+}
+
+footer {
+	height: 100px;
+	background: #666666;
+	text-align: center;
+	vertical-align: top;
+	/*background: #aaaaaa;*/
+}
+
+.header {
+	text-align: center;
+	padding-top: 75px;
+	background: gray;
+	height: 375px;
+	color: white;
+}
+
+.header h1, h2, h3 {
+	margin: 0 0 10px 0;
+}
+
+.header h1 {
+	margin-top: 30px;
+	font-weight: 900;
+}
+
+.header h2 {
+	font-weight: 700;
+}
+
+.header h3 {
+	font-weight: 400;
+}
+
+.languages-logo {
+	border-radius: 10%;
+	height: 60px;
+	width: 75px;
+}
+
+.languages-description {
+	font-size: 1.3em;
+}
+
+.languages-title {
+	font-weight: 700;
+}
+
+.menu {
+	text-decoration: none;
+}
+
+.menu-item {
+	float: right;
+	margin-top: 0.2%;
+	display: inline-block;
+}
+
+nav ul li a {
+	font-weight: 700;
+	font-size: 1.2em;
+	color: #eeeeee;
+	padding: 15px 5px;
+	margin: 1px 10px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	border-top: 3px solid #eeeeee;
+}
+
+.navigation {
+	background: #005288;
+	height: 60px;
+	position: fixed;
+	width: 100%;
+}
+
+p {
+	margin: 0;
+}
+
+#p-introduction {
+	color: #333333;
+	padding: 3% 0;
+	font-weight: 400;
+	font-size: 1.4em;
+	text-align: center;
+	text-indent: 0;
+	font-style: italic; 
+}
+
+.studies-title {
+	font-weight: 700;
+}
+
+.studies-date {
+	font-weight: 300;
+}
+
+.studies-university {
+	font-weight: 400;
+}
+
+.studies-logo {
+	border-radius: 10%;
+	height: 75px;
+	width: 75px;
+}
+
+.studies-description {
+	font-size: 1.3em;
+}
+
+.studies-description, .studies-logo {
+	display: inline-block;
+}
+
+.socialnetworks-description {
+	display: inline-block;
+}
+
+.socialnetworks-logo {
+	border-radius: 10%;
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+}
+
