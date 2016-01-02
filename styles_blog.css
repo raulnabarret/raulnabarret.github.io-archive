@@ -13,6 +13,54 @@ html {
 	height: 150px;
 }
 
+.article-container {
+	padding: 2em 2em 1em 2em;
+}
+
+.article-info-container {
+	float: top; 
+}
+.article-info-container, .article-image-container {
+	display: inline-block;
+}
+
+.article-image {
+	width: 200px;
+	height: 200px;
+}
+
+.article-title {
+	font-weight: 700;
+	font-size: 1.5em;
+
+}
+
+.article-title a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.article-description {
+	font-weight: 400;
+	font-size: 1.3em;
+	color: #404040;
+}
+
+.article-author {
+	float: right;
+}
+
+.article-date, .article-author {
+	display: inline-block;
+	font-weight: 300;
+}
+
+.article-date a, .article-author a {
+	text-decoration: none;
+	color: #404040;
+}
+
+
 body {
 	height: 100%;
 	width: 100%;
@@ -73,7 +121,7 @@ footer {
 	text-decoration: none;
 }
 
-	.menu-mobile-icon {
+.menu-mobile-icon {
 	display: none;
 }
 
