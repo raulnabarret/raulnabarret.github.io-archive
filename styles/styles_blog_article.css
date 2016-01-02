@@ -65,6 +65,12 @@ html {
 	padding: 3em 4em;
 }
 
+.article-body img {
+
+	width: 100%;
+	height: auto;
+}
+
 .article-body p {
 	padding-bottom: 1em;
 }
