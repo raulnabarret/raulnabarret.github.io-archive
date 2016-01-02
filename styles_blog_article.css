@@ -189,7 +189,12 @@ p {
 @media screen and (max-width: 800px) {
 
 	html {
-		font-size: 12px;
+		font-size: 14px;
+	}
+
+	.article-body {
+		text-align: justify;
+		padding: 3em 2em;
 	}
 
 	.course-description {
