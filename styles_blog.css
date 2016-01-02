@@ -36,36 +36,6 @@ body {
 	text-indent: 5%;
 }
 
-.course-logo {
-	border-radius: 10%;
-	height: 80px;
-	width: 80px;
-}
-
-.course-description {
-	font-size: 1.3em;
-}
-
-.course-title {
-	font-weight: 700;
-}
-
-.course-date {
-	font-size: 400;
-}
-
-.course-download {
-	font-size: 300;
-}
-
-.course-logo, .course-description {
-	display: inline-block;
-}
-
-.course .icon-award-fill {
-	color: gray;
-}
-
 footer {
 	height: 100px;
 	background: #666666;
@@ -97,20 +67,6 @@ footer {
 
 .header h3 {
 	font-weight: 400;
-}
-
-.languages-logo {
-	border-radius: 10%;
-	height: 60px;
-	width: 75px;
-}
-
-.languages-description {
-	font-size: 1.3em;
-}
-
-.languages-title {
-	font-weight: 700;
 }
 
 .menu {
@@ -159,32 +115,6 @@ p {
 	text-align: center;
 	text-indent: 0;
 	font-style: italic; 
-}
-
-.studies-title {
-	font-weight: 700;
-}
-
-.studies-date {
-	font-weight: 300;
-}
-
-.studies-university {
-	font-weight: 400;
-}
-
-.studies-logo {
-	border-radius: 10%;
-	height: 80px;
-	width: 80px;
-}
-
-.studies-description {
-	font-size: 1.3em;
-}
-
-.studies-description, .studies-logo {
-	display: inline-block;
 }
 
 .socialnetworks-description {
