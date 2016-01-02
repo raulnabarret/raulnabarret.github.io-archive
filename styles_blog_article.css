@@ -1,0 +1,261 @@
+html {
+	font-family: "Lato";
+	font-size: 16px;
+}
+
+.avatar {
+	border: 3px solid;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+	height: 150px;
+}
+
+.article-container {
+	padding: 2em 2em 1em 2em;
+}
+
+.article-info-container {
+	float: top; 
+}
+.article-info-container, .article-image-container {
+	display: inline-block;
+}
+
+.article-image {
+	width: 200px;
+	height: 200px;
+}
+
+.article-title {
+	font-weight: 700;
+	font-size: 1.5em;
+
+}
+
+.article-title a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.article-description {
+	font-weight: 400;
+	font-size: 1.3em;
+	color: #404040;
+}
+
+.article-author {
+	float: right;
+}
+
+.article-date, .article-author {
+	display: inline-block;
+	font-weight: 300;
+}
+
+.article-date a, .article-author a {
+	text-decoration: none;
+	color: #404040;
+}
+
+.article-body {
+	text-align: justify;
+	padding: 3em 4em;
+}
+
+.article-body p {
+	padding-bottom: 1em;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	background: #eeeeee;
+}
+
+.container-title {
+	padding: 1% 0;
+	color: #333333;
+	font-weight: 700;
+	font-size: 1.5em;
+	text-indent: 5%;
+}
+
+.container-text {
+	color: #404040;
+	padding: 10px 0;
+	text-indent: 5%;
+}
+
+footer {
+	height: 100px;
+	background: #666666;
+	text-align: center;
+	vertical-align: top;
+	/*background: #aaaaaa;*/
+}
+
+.header {
+	text-align: center;
+	padding-top: 75px;
+	background-image: url("uber.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 375px;
+	color: white;
+}
+
+.header h1, h2, h3 {
+	margin: 0 0 10px 0;
+}
+
+.header h1 {
+	margin-top: 30px;
+	font-weight: 900;
+}
+
+.header h2 {
+	font-weight: 700;
+}
+
+.header h3 {
+	font-weight: 400;
+}
+
+.menu {
+	text-decoration: none;
+}
+
+.menu-mobile-icon {
+	display: none;
+}
+
+.menu-item {
+	float: right;
+	margin-top: 0.2%;
+	display: inline-block;
+}
+
+nav ul li a {
+	font-weight: 700;
+	font-size: 1.2em;
+	color: #eeeeee;
+	padding: 15px 5px;
+	margin: 1px 10px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	border-top: 3px solid #eeeeee;
+}
+
+.navigation {
+	background: #005288;
+	height: 60px;
+	position: fixed;
+	width: 100%;
+}
+
+p {
+	margin: 0;
+}
+
+#p-introduction {
+	color: #333333;
+	padding: 3% 0;
+	font-weight: 400;
+	font-size: 1.4em;
+	text-align: center;
+	text-indent: 0;
+	font-style: italic; 
+}
+
+.socialnetworks-description {
+	display: inline-block;
+}
+
+.socialnetworks-logo {
+	border-radius: 10%;
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+}
+
+@media screen and (max-width: 800px) {
+
+	html {
+		font-size: 12px;
+	}
+
+	.course-description {
+		font-size: 1.1em;
+	}
+
+	.languages-description {
+		font-size: 1.1em;
+	}
+
+	.studies-description {
+		font-size: 1.1em;
+	}
+	
+	.navigation {
+
+		background: #005288;
+		position: fixed;
+		width: 80%;
+		height: 100%;
+		left: -100%;
+		margin: 0;
+		padding: 60px 0 0 0;
+	}
+
+	.menu {
+		margin: 0;
+		padding: 0;
+	}
+
+	.menu-item {
+		margin-top: 0.2%;
+		display: block;
+		padding: 2% 0 2% 0;
+		float: none;
+		border-bottom: 1px solid white;
+		width: 100%;
+	}
+
+	nav ul li a:hover {
+		border-top: none;
+	}
+
+	.menu-mobile-icon {
+		position: fixed;
+		display: block;
+		height: 60px;
+		width: 100%;
+		background: #005288;
+	}
+
+	.menu-mobile-icon .menu-boton {
+		display: block;
+		background: #005288;
+		font-weight: bold;
+		float: right;
+		font-size: 20px;
+		text-decoration: none;
+		color: white;
+	}
+
+	.menu-mobile-icon span {
+		padding: 15px;
+		font-size: 30px;
+		float: right;
+	}
+
+
+}
