@@ -17,9 +17,7 @@ html {
 	padding: 2em 2em 2em 2em;
 }
 
-.article-info-container {
-	float: top; 
-}
+
 .article-info-container, .article-image-container {
 	display: inline-block;
 }
@@ -50,6 +48,9 @@ html {
 	float: right;
 }
 
+.article-date {
+	padding-bottom: 2em;
+}
 .article-date, .article-author {
 	display: inline-block;
 	font-weight: 300;
