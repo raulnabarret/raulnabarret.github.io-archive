@@ -1,0 +1,323 @@
+commit 587e16aff907c3a3ee1a8e7694552b6241c97077
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Jan 2 17:15:24 2016 -0600
+
+    Cambio de bg
+
+commit d6db79004d17047afbc46ee6e50024163bb24ff1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:17:42 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo' 3
+
+commit e77ddd342cd3fd79cb7bc010f65ff1278cb7ae38
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:16:03 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo' 2
+
+commit 5dda5285c77c7ba61ab4c26c1a35c1d086453e57
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 23:11:52 2016 -0600
+
+    Articulo 'UberSurge Año Nuevo'
+
+commit a820ef0fe067dedde457a0de6d30067c3d6a57ca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:48:19 2016 -0600
+
+    Cambios a la estructura de los directorios
+
+commit b4bc491c02d24a8d094de43db689fcf2a0e55d14
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:17:00 2016 -0600
+
+    Padding de separación entre artículos
+
+commit 6831ff00fd7e6777e6d67e5886a8aff36172e44e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:11:41 2016 -0600
+
+    Eliminación de target=_blank para abrir articulos nuevos
+
+commit dd44b2343fee4d7225f0c3984bdf06d4e547263a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:09:59 2016 -0600
+
+    Actualización del menu de navegación 2
+
+commit e291d665a0f1cbadea50c469bdec1319cf663363
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 22:07:53 2016 -0600
+
+    Actualización del menu de navegación
+
+commit 34f6120e7959c5225b1d9cdcd17ef882b6390c36
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:44:41 2016 -0600
+
+    Cambio de tamaño de fuente y cambio del margen a los costados del texto del cuerpo
+
+commit 0aed26a3066724de134fc0e4331ad2f7ab3fd4a5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:44:16 2016 -0600
+
+    Cambio al padding de cada artículo en la pagina principal del blog
+
+commit f9c7cb9ca3b19830d43c5faca2b43b6a202021cf
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:36:35 2016 -0600
+
+    Error en extensión de archivo html corregido 3
+
+commit 5a6964a6d78cdb87134b5bfdfcd8877860e33293
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:35:24 2016 -0600
+
+    Error en extensión de archivo html corregido 2
+
+commit 836461d14defd3e4c61d57c0479f473f74934c79
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:34:29 2016 -0600
+
+    Error en extensión de archivo html corregido
+
+commit 22a0888be520a9e286f66bbcd83dafa52906f657
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:33:09 2016 -0600
+
+    Cambios a blog 2
+
+commit bd58ed9a11bc5f13c53628fb27e2d0c2f5b618ed
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:32:35 2016 -0600
+
+    Cambios a blog
+
+commit 6544c04e9f2cf614dcb98fb36d9f6b7d5372d10c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:28:49 2016 -0600
+
+    Creación del primer artículo del blog y su descripción
+
+commit 8dbc3ce0a72faaeebca531e1733c6074fd6fa4b0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:28:02 2016 -0600
+
+    Cambio de ruta del background
+
+commit 07edcd6e80c2829ac55f90a7c5ff65405bb7b25f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:27:19 2016 -0600
+
+    Reubicación del archivo
+
+commit 0d14900ef643fec89edbe515497461e4bb5db64d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:26:30 2016 -0600
+
+    Background del artículo 'El #UberSurge de Año Nuevo'
+
+commit 679e13614b1d3d334e1775c4d739da532a005dca
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:24:19 2016 -0600
+
+    Estilos particulares para los artículos publicados en el Blog
+
+commit a8a0d5335ff0e1b1b4481b40874d553102a66758
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 21:23:36 2016 -0600
+
+    Carpeta para almacenar los artículos publicados en el Blog
+
+commit f668a416dbea407c9a77b8ffe5872880320443ad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:54:19 2016 -0600
+
+    Depuracion de blog.css
+
+commit aa71b678ac2df8577bc3a463ac4e887ff7eb9e6a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:52:15 2016 -0600
+
+    Actualización de menu movil en blog.html
+
+commit 360893f8f20e3388e76e41d112bbec337e46b29a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:37:09 2015 -0600
+
+    Menu movil, responsive 12
+
+commit 953759c9b98b4c5de0d9e0afeb44d92acc428006
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:34:02 2015 -0600
+
+    Menu movil, responsive 11
+
+commit f4090612a5f5c7af487cf62743ba017b422cb0ea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:32:29 2015 -0600
+
+    Menu movil, responsive 10
+
+commit 43dcd626380fe2cfeaa5d46482f2491b9c7abf78
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:27:16 2015 -0600
+
+    Menu movil, responsive 9
+
+commit 1723163801e8ec6912327cb5ecb9ea69ea4ebe30
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:25:17 2015 -0600
+
+    Menu movil, responsive 8
+
+commit b9f0c6e12120c5a780ffa6b48291df26c69c47e6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:17:44 2015 -0600
+
+    Menu movil, responsive 7
+
+commit 5eccedffca6a113af9829a6cf0d6ac4632568092
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:16:20 2015 -0600
+
+    Menu movil, responsive 6
+
+commit ca8452b486de5eef6d7c0412cea48e60e0ba9cd9
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:12:57 2015 -0600
+
+    Menu movil, responsive 5
+
+commit b51f068e5cc0e5b9b835697b17664fd9ebc23bcc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:10:17 2015 -0600
+
+    Menu movil, responsive 4
+
+commit a522aea220490919f8e126b5902b49feefad7917
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:04:11 2015 -0600
+
+    Menu movil, responsive 3
+
+commit 7be6430603f617a4a855e0d34ec537d34d331304
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 01:00:53 2015 -0600
+
+    Menu movil, responsive 2
+
+commit 08d5c7915033c071be42c09fd56d6b601c836c02
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 00:56:54 2015 -0600
+
+    Menu movil, responsive
+
+commit 7d785133a1958dc81eacd8052585c9cbaa86cd34
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 22 00:54:17 2015 -0600
+
+    Menu movil, responsive
+
+commit 954bb645a0c04654eee4d72c4b7d9fe0e90c3ff2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 19:48:16 2015 -0600
+
+    Cambios en la estructura al sitio, se agrego el Blog, modificación de detalles menores
+
+commit 6cfb7c2bfa0bd2b3f45e3134006704a27e8b50f6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 17:42:29 2015 -0600
+
+    Media para logotipos de redes sociales
+
+commit 41c8a1a634a664a2cf1a9971799d29165229306f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 17:42:12 2015 -0600
+
+    Cambios en footer y header
+
+commit 3c691ea2b7d7b22fb2d0730161f423d7e7cc472f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:36:09 2015 -0600
+
+    Cambios para alinear el texto en Studies
+
+commit 5f79a3e7cd23c6a06637302f2cf3b4c107a9f99b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:17:36 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso 3
+
+commit 77f8afd8f76ab436c7c8b2b688092ba654984e6c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:15:37 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso 2
+
+commit 0c7dfcd1380663be97c485c0f4a9cbc890b6ced0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:14:41 2015 -0600
+
+    Cambios en la sección 'Studies' de estructura, fuente y peso
+
+commit 698e2a3476db1c6e47a1db4f45e87a3b633bc910
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 16:14:15 2015 -0600
+
+    Logos de universidades
+
+commit 95d0d5a41195955b90234319f8eea2e33ab00cbb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:44:33 2015 -0600
+
+    Cambios en fuentes, tamaños y pesos para Courses and Certifications
+
+commit e9e1d090cdde3ddcff45565550e85fe1fe5b4cee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:20:25 2015 -0600
+
+    Media de los logos de los cursos así como diplomas descargables
+
+commit 0c43ec5d68b6d3afc51afdd432ce165150c5298e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 15:19:22 2015 -0600
+
+    Sección de 'Courses and Certifications' estructurada y con imágenes
+
+commit 60cf0b08120e7224e042d641a6a0eaeedac0a3d2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 14:21:19 2015 -0600
+
+    Cambio de tipografía a Lato
+
+commit f6a232e6ac5c63fc0eead131ae2495840eef4e46
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 15 14:10:47 2015 -0600
+
+    Ajuste al navigation menu para móviles
+
+commit d32aaf39a90e343c9d59c50b4264bb4b7cee1f36
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:55 2015 -0600
+
+    Media del sitio (avatar y background)
+
+commit a660a5a30abc39f4fa1de6fcc89afdd8ad6cc191
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:25 2015 -0600
+
+    Estilos básicos del sitio
+
+commit 0908560bc93fe5b4480bd22ac8475a7a35ec1eb8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:41:03 2015 -0600
+
+    Iguala los estilos para todos los navegadores
+
+commit 5dd8dbdb6a8077dd86e37c0a6e1a6dab9ae4d3a0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Dec 14 17:40:25 2015 -0600
+
+    Estructura semántica del sitio
