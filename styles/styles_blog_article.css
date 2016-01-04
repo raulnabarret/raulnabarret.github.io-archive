@@ -104,7 +104,6 @@ footer {
 .header {
 	text-align: center;
 	padding-top: 75px;
-
 	height: 375px;
 	color: white;
 }
@@ -114,11 +113,13 @@ footer {
 }
 
 .header h1 {
+	font-size: 1.6em;
 	margin-top: 120px;
 	font-weight: 900;
 }
 
 .header h2 {
+	font-size: 1.4em;
 	font-weight: 700;
 }
 
