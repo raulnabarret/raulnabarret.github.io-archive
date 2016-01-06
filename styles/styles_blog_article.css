@@ -198,14 +198,14 @@ p {
 		padding: 3em 2em;
 	}
 
-	.course-description {
-		font-size: 1.1em;
+
+	.header h1 {
+		font-size: 1.8em;
 	}
 
-	.languages-description {
-		font-size: 1.1em;
+	.header h2 {
+		font-size: 1.4em;
 	}
-
 	.studies-description {
 		font-size: 1.1em;
 	}
