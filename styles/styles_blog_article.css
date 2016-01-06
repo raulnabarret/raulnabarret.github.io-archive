@@ -1,6 +1,6 @@
 html {
 	font-family: "Lato";
-	font-size: 20px;
+	font-size: 16px;
 }
 
 .avatar {
@@ -61,6 +61,7 @@ html {
 }
 
 .article-body {
+	font-size: 1.2em;
 	text-align: justify;
 	padding: 3em 7em;
 }
