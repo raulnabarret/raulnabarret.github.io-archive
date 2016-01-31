@@ -51,6 +51,7 @@ html {
 .article-date {
 	padding-bottom: 2em;
 }
+
 .article-date, .article-author {
 	display: inline-block;
 	font-weight: 300;

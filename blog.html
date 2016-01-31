@@ -2,12 +2,23 @@
 <html>
 <meta charset="UTF-8">
 <head>
+
+	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">-->
+
+
 	<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+	<link rel="stylesheet" href="http://code.jquery.com/qunit/qunit-1.13.0.css">
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="jquery.twbsPagination.js" type="text/javascript"></script>
+
+
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>	
 	<link rel="stylesheet" type="text/css" href="styles/fonts.css">
 	<link rel="shortcut icon" type="image/ico" href="/media/favicon.ico" />
 
 	<link rel="stylesheet" type="text/css" href="styles/styles_blog.css">
+
+
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.">
 
 	<title>Raul Nabarret</title>
@@ -57,6 +68,8 @@
 				<!--<img src="" class="article-image">-->
 			</div>
 			<div class="article-info-container">
+
+				
 				<div class="article-title">		
 					<p><a href="blog/yahoo-se-renueva-y-termina-operaciones-en-mexico.html"> Yahoo se renueva y termina operaciones en México </a></p>
 				</div>
@@ -577,13 +590,23 @@
 				<div class="article-author">				
 					<p><a href="#" target="_blank">Raúl Nabarret</a></p>
 				</div>	
+
+				<ul id="pagination-demo" class="pagination-lg"></ul>
 		
 			</div>
 		</article>
 	</section>
 	<footer>
 	</footer>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+
+		<script>
+			$('#pagination-demo').twbsPagination({
+				totalPages: 10,
+				visiblePages: 5,
+				href: '#'
+			});
+	</script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 	<script type="text/javascript" src="js/menu.js"></script>
 </body>
 </html>

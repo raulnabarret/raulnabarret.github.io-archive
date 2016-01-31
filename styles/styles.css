@@ -3,6 +3,14 @@ html {
 	font-size: 16px;
 }
 
+.area-header {
+	padding: 1% 0;
+	color: #333333;
+	font-weight: 700;
+	font-size: 1.5em;
+	text-indent: 5%;
+}
+
 .avatar {
 	border: 3px solid;
 	border-radius: 50%;
@@ -13,6 +21,11 @@ html {
 	height: 150px;
 }
 
+a {
+	text-decoration: none;
+
+}
+
 body {
 	height: 100%;
 	width: 100%;
@@ -20,14 +33,6 @@ body {
 
 .container {
 	background: #eeeeee;
-}
-
-.container-title {
-	padding: 1% 0;
-	color: #333333;
-	font-weight: 700;
-	font-size: 1.5em;
-	text-indent: 5%;
 }
 
 .container-text {
