@@ -177,6 +177,22 @@ p {
 	text-indent: 0;
 	font-style: italic; 
 }
+.pagination-lg {
+	text-align: center;
+}
+
+.pagination-lg li {
+	border-radius: 5%;
+	border-left: 1px solid white;
+	background: #666;
+	padding: 7px;
+	display: inline-block;
+}
+
+.pagination-lg li a {
+	color: white;
+	text-decoration: none;
+}
 
 .socialnetworks-description {
 	display: inline-block;
