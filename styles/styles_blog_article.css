@@ -60,7 +60,6 @@ html {
 	padding: 3em 7em;
 }
 
-
 .article-body p {
 	padding-bottom: 1em;
 }
@@ -182,6 +181,7 @@ p {
 }
 
 .share-buttons {
+	padding-top: 1em;
 	text-align: center;
 }
 
