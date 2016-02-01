@@ -111,6 +111,7 @@ footer {
 
 .menu {
 	text-decoration: none;
+	float: right;
 }
 
 .menu-mobile-icon {
@@ -118,7 +119,6 @@ footer {
 }
 
 .menu-item {
-	float: right;
 	margin-top: 0.2%;
 	display: inline-block;
 }

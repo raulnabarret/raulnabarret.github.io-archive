@@ -132,6 +132,7 @@ footer {
 
 .menu {
 	text-decoration: none;
+	float: right;
 }
 
 .menu-mobile-icon {
