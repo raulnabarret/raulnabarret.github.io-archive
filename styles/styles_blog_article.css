@@ -187,6 +187,22 @@ p {
 	width: 30px;
 }
 
+.share-buttons {
+	text-align: center;
+}
+
+.share-buttons img {
+	border-radius: 10%;
+	display: inline-block;
+	padding: 5px;
+	height: 30px;
+	width: 30px;
+}
+
+.share-buttons p {
+	font-weight: 300;
+}
+
 @media screen and (max-width: 800px) {
 
 	html {
