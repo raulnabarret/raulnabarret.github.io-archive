@@ -27,7 +27,7 @@ html {
 }
 
 .article-image {
-	border-radius: 50%;
+	border-radius: 5%;
 	width: 120px;
 	height: 80px;
 }
@@ -192,11 +192,11 @@ p {
 	}
 
 	.article-image, .article-text {
-		display: block;
+		display: inline-block;
 	}
 
 	.article-image {
-		border-radius: 50%;
+		border-radius: 5%;
 		width: 100px;
 		height: 60px;
 	}
