@@ -110,8 +110,8 @@ footer {
 }
 
 .menu {
+	padding-left: 0;
 	text-decoration: none;
-	float: right;
 }
 
 .menu-mobile-icon {
@@ -119,6 +119,7 @@ footer {
 }
 
 .menu-item {
+	float: left;
 	margin-top: 0.2%;
 	display: inline-block;
 }
@@ -171,24 +172,25 @@ p {
 @media screen and (max-width: 800px) {
 
 	html {
-		font-size: 18px;
+		font-size: 12px;
 	}
 
-	.article-body {
-		text-align: justify;
-		padding: 3em 2em;
+	.area-header {
+		text-align: center;
 	}
 
-	.header h1 {
-		font-size: 1.8em;
+	.area-text, .area-logo {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
-	.header h2 {
-		font-size: 1.4em;
+	.area-text {
+		text-align: center;
+		font-size: 1.2em;
 	}
 	
 	.navigation {
-
 		background: #005288;
 		position: fixed;
 		width: 80%;

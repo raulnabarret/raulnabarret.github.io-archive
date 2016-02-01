@@ -131,8 +131,8 @@ footer {
 }
 
 .menu {
+	padding-left: 0;
 	text-decoration: none;
-	float: right;
 }
 
 .menu-mobile-icon {
@@ -140,7 +140,7 @@ footer {
 }
 
 .menu-item {
-	float: right;
+	float: left;
 	margin-top: 0.2%;
 	display: inline-block;
 }
@@ -209,12 +209,23 @@ p {
 @media screen and (max-width: 800px) {
 
 	html {
-		font-size: 18px;
+		font-size: 12px;
 	}
 
 	.article-body {
 		text-align: justify;
 		padding: 3em 2em;
+	}
+
+	.article-text {
+		display: block;
+		color: rgb(64,64,64);
+		width: 100%;
+		padding-left: 0px;	
+	}
+
+	.article-image {
+		display: none;
 	}
 
 	.header h1 {
@@ -226,7 +237,6 @@ p {
 	}
 	
 	.navigation {
-
 		background: #005288;
 		position: fixed;
 		width: 80%;
@@ -278,6 +288,3 @@ p {
 		float: right;
 	}
 }
-
-
-

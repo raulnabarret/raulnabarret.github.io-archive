@@ -122,6 +122,7 @@ footer {
 }
 
 .menu {
+	padding-left: 0;
 	text-decoration: none;
 }
 
@@ -130,7 +131,7 @@ footer {
 }
 
 .menu-item {
-	float: right;
+	float: left;
 	margin-top: 0.2%;
 	display: inline-block;
 }
@@ -221,7 +222,6 @@ p {
 	}
 	
 	.navigation {
-
 		background: #005288;
 		position: fixed;
 		width: 80%;
@@ -237,6 +237,7 @@ p {
 	}
 
 	.menu-item {
+		font-size: 12px;
 		margin-top: 0.2%;
 		display: block;
 		padding: 2% 0 2% 0;
