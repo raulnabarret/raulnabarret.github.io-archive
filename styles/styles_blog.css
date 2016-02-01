@@ -22,8 +22,13 @@ html {
 	display: inline-block;
 }
 
+.article-image, .article-text {
+	display: inline-block;
+}
+
 .article-image {
-	width: 80px;
+	border-radius: 50%;
+	width: 120px;
 	height: 80px;
 }
 
@@ -178,14 +183,22 @@ p {
 	width: 30px;
 }
 
-.article-image, .article-text {
-	display: inline-block;
-}
+
 
 @media screen and (max-width: 800px) {
 
 	html {
 		font-size: 12px;
+	}
+
+	.article-image, .article-text {
+		display: block;
+	}
+
+	.article-image {
+		border-radius: 50%;
+		width: 100px;
+		height: 60px;
 	}
 
 	.course-description {
