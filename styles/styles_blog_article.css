@@ -24,15 +24,9 @@ html {
 	display: inline-block;
 }
 
-.article-image {
-	width: 200px;
-	height: 200px;
-}
-
 .article-title {
 	font-weight: 700;
 	font-size: 1.5em;
-
 }
 
 .article-title a {
