@@ -185,6 +185,10 @@ p {
 	text-align: center;
 }
 
+.share-buttons a {
+	text-decoration: none;
+}
+
 .share-buttons img {
 	border-radius: 10%;
 	display: inline-block;
