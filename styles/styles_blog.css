@@ -206,38 +206,23 @@ p {
 	width: 30px;
 }
 
-
-
 @media screen and (max-width: 800px) {
 
 	html {
-		font-size: 12px;
+		font-size: 18px;
 	}
 
-	.article-image {
-		display: none;
-	}
-	
-	.article-text {
-		padding-left: 5px;
+	.article-body {
+		text-align: justify;
+		padding: 3em 2em;
 	}
 
-	.article-image {
-		border-radius: 5%;
-		width: 100px;
-		height: 60px;
+	.header h1 {
+		font-size: 1.8em;
 	}
 
-	.course-description {
-		font-size: 1.1em;
-	}
-
-	.languages-description {
-		font-size: 1.1em;
-	}
-
-	.studies-description {
-		font-size: 1.1em;
+	.header h2 {
+		font-size: 1.4em;
 	}
 	
 	.navigation {
@@ -292,8 +277,6 @@ p {
 		font-size: 30px;
 		float: right;
 	}
-
-
 }
 
 
