@@ -1,0 +1,24 @@
+rp_ad_response={
+"status":"ok",
+"account_id":7470,
+"site_id":40684,
+"zone_id":185818,
+"size_id":57,
+"tracking":"athena",
+"inventory":{},
+"ads":[{
+"status":"ok",
+"impression_id":"43614f84-b74c-4cdf-83cc-2123fcb023b5",
+"size_id":"57",
+"cpm":2.610000,
+"advertiser":29702,
+"network":2054,
+"ad_id":"3634728",
+"creative_id":3836834,
+"type":"script",
+"campaign_id":52644,
+"rtb_rule_id":1081542,
+"script":"rubicon_cb = Math.random(); rubicon_rurl = document.referrer; if(top.location==document.location){rubicon_rurl = document.location;} rubicon_rurl = escape(rubicon_rurl);\nwindow.rubicon_ad = \"3634728\" + \".\" + \"js\"; window.rubicon_creative = \"3836834\" + \".\" + \"js\"; document.write(\"\\n<div style=\\\"width: 0; height: 0; overflow: hidden;\\\">\\n<img border=\\\"0\\\" width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://beacon-us-west.rubiconproject.com/beacon/d/43614f84-b74c-4cdf-83cc-2123fcb023b5?accountId=7470&siteId=40684&zoneId=185818&e=6A1E40E384DA563BB850F932E952F22DA53C5018CAB0A3232F8B905B826E60D0017141953699EFAFB35062FD8674DF459C1CD0D58C806A54FD2FE4279F3E12AE663544BAD29354ED043400243B2619D35DBBB418A842698888A51E98F6EEAE4A63D0F222694B6B78CDDCBB586AEA7A9A6B7AE4D0106B44EAB30FF90906DE642F4E004FA627DF99547A6CD3DA648359F5\\\" alt=\\\"\\\" />\\n</div>\\n\\n\"); rubicon_tag_code = \"%3ciframe%20id='88da47d1'%20name='88da47d1'%20src='http://cas.sv.us.criteo.com/delivery/r/afr.php%3fdid=56b237506f6a701ee4a92ba7933fdfb0&z=92679720B9AC7DCF&u=%257CQe4agFeVKvhA5Xd%252BvBEg3bjb%252Boyb2%252BF2VQ%252FM%252BFV5prY%253D%257C&c1=hiu7qeBX8BL93Hym_eH8SIrPaYji3RriOWvw6m0yyvVNG6c5UMe37gu-aQ2qEAFN2bL5JRsndn4pY-j2exfiiErKm9WPCG1l2Hscwd7rQ0BwZV9n5-AeheBlbw6m-IvUko8pAnvCbAs-samQj1r4l3pqhXjuphDvxmJ6tRlV0g34CpQmxV0pq-Prykuv8SWlnoeTT7DIPsM'%20framespacing='0'%20frameborder='no'%20scrolling='no'%20width='970'%20height='250'%3e%3c/iframe%3e\"; rubicon_tag_code = rubicon_tag_code.replace(/##RUBICON_CB##/g,rubicon_cb); document.write(unescape(rubicon_tag_code)); document.write(\"<div style=\\\"height: 0px; width: 0px; overflow: hidden\\\">\\n<script>\\n(function() {var proto = document.location.protocol; var server=\\\"http://tap2-cdn.rubiconproject.com\\\"; if (proto == \\\"https:\\\") server=\\\"https://tap-secure.rubiconproject.com\\\"; document.write(\\'<iframe src=\\\"\\'+server+\\'/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=7470/40684&geo=na&co=mx\\\" frameborder=\\\"0\\\" marginwidth=\\\"0\\\" marginheight=\\\"0\\\" scrolling=\\\"NO\\\" width=\\\"0\\\" height=\\\"0\\\" style=\\\"height: 0px; width: 0px\\\"></iframe>\\'); })();\\n<\\/script>\\n\\n</div>\");"
+}]
+};
+try{TN8.RUBICON_CB_1(rp_ad_response);}catch(ignore){}

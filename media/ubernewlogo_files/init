@@ -1,0 +1,1 @@
+yieldbot.updateState({"url_prefix":"http://ads-adswest.yldbt.com/m/","slots":[],"subdomain_iframe":"ads-adswest"});
