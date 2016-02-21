@@ -171,6 +171,10 @@ textarea {
 		font-size: 12px;
 	}
 
+	input {
+		-webkit-appearance: none; 
+		box-shadow: none !important; 
+	}
 
 	.form-container {
 		background: #eeeeee;
