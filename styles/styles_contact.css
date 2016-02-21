@@ -180,11 +180,11 @@ textarea {
 		margin-right: auto;
 		margin-left: auto;
 		height: 400px;
-		width: 400px;
+		width: 250px;
 	}
 
 	.form-fields {
-	width: 300px;
+	width: 200px;
 }
 
 #form-text-area {
@@ -193,7 +193,7 @@ textarea {
 
 .form-btn{
 
-	width: 315px;
+	width: 215px;
 }
 	
 	.navigation {
