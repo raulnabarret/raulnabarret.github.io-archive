@@ -176,7 +176,7 @@ textarea {
 		border-radius: 0;
 		-webkit-appearance: none; 
 		box-shadow: none !important;
-		border: none; 
+		border: 1px solid gray; 
 	}
 
 
