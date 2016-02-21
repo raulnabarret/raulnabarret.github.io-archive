@@ -171,11 +171,15 @@ textarea {
 		font-size: 12px;
 	}
 
-	input { 
+	input,
+	textarea { 
 		border-radius: 0;
 		-webkit-appearance: none; 
-		box-shadow: none !important; 
+		box-shadow: none !important;
+		border: none; 
 	}
+
+
 
 	.form-container {
 		background: #eeeeee;
