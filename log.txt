@@ -1,3 +1,430 @@
+commit 0062653c34d9fff33b70150a6a6787dbab8994b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:57:40 2016 -0600
+
+    Cambios en el media del artículo 'Nueva Raspberry Pi 3'
+
+commit 7046145d277c58cf0ab366c8ac6f55968c2dcc6d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:55:28 2016 -0600
+
+    Cambios a index 2
+
+commit af1cc5bb41be5e42eb20765720fb59de63dab53e
+Merge: 6c96c61 61d7e02
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:53:45 2016 -0600
+
+    Cambios en index
+
+commit 6c96c6167c36dc1da2ef6e0c4e53efe982501fb5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:49:43 2016 -0600
+
+    Cambios en el index
+
+commit 61d7e02541e68f45a1097830e34cdc4371a4acf6
+Author: Raul Nabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 13:46:07 2016 -0600
+
+    Replace master branch with page content via GitHub
+
+commit b570db1709ed1418086ebf926ea604b48cee98ae
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 1 12:02:58 2016 -0600
+
+    Nuevo artículo 'Nueva Raspberry Pi 3'
+
+commit 10f7377a0ac79bbcada284fcfd7ff40073f25f5a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 23:09:17 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web' 3
+
+commit 7e291bc36e6d93e7967718b3a7997d82c237fbba
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 23:02:11 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web' 2
+
+commit 8cfd3b377ee80b89b328759211210aa36de033cd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 29 22:58:57 2016 -0600
+
+    Nuevo artículo 'Snapchat cubrió Los Oscars a través de la web'
+
+commit e30094262f76b59511581fcb0c719bb3b069bb3c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:54:32 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac' 3
+
+commit 0be42afe4ff9bdaece12f63719352d54774f7775
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:53:16 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac' 2
+
+commit 5bcd31237b0a2b8ab2aee6227bdd4859ebd07075
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:52:38 2016 -0600
+
+    Nuevo artículo 'Apple prresentaría Siri en Mac'
+
+commit 4cdabd05ffb87b9195d569af1fbbb43d4c471e76
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:24:34 2016 -0600
+
+    Nuevo artículo 'Netflix crece, Televisa y TvAzteca caen' 2
+
+commit 61a925b74b0984738f41675a85eabbfc27971757
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 27 13:22:56 2016 -0600
+
+    Nuevo artículo 'Netflix crece, Televisa y TvAzteca caen'
+
+commit fe77e6926d49f001514188294544abcdc8591501
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 26 23:46:37 2016 -0600
+
+    Anexo de imágen en el artículo 'Apple modificó el código de su página para evitar una palabra'
+
+commit a6067f140b9c50dc034982b0262c9546fc4d7ce0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 26 23:40:46 2016 -0600
+
+    Nuevo artículo 'Apple modificó el código de su página para evitar una palabra'
+
+commit 9b8a2b8b43e47fc8eba3ce7985f642118b77b4cd
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 25 21:42:16 2016 -0600
+
+    Nuevo artículo 'Mighyt Audio, el nuevo reproductor MP3 para Spotify' 2
+
+commit 646f840118018f29acd5d2d9d0c555b78c428c60
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 25 21:39:40 2016 -0600
+
+    Nuevo artículo 'Mighyt Audio, el nuevo reproductor MP3 para Spotify'
+
+commit db0930f3b665988583a7f2c0405ce8988fa19319
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 24 23:33:26 2016 -0600
+
+    Nuevo artículo 'Snapchat te permitirá generar geofiltros personalizados' 2
+
+commit 183ffd07cc3fe503f6249b4f6353085e2eb389cb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 24 23:32:19 2016 -0600
+
+    Nuevo artículo 'Snapchat te permitirá generar geolfitros personalizados'
+
+commit b702582bd2fe51d972839899664be8c83eccb525
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 23:15:04 2016 -0600
+
+    Google Search Console
+
+commit cab120130a28cc6cc6d93fb6efdcc4925569a73d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:55:07 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo' 3
+
+commit 936c51c00fa77980d61766edc4d0ca0d2821d87c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:52:19 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo' 2
+
+commit a697670b09b09567707eeadaa3b5893311157916
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 23 22:51:41 2016 -0600
+
+    Nuevo artículo 'Facebook te permitirá felicitar a tus amigos con un vídeo'
+
+commit 8fc1afed3522251447cddd947a4450dd438fbd0d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:19:29 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy' 3
+
+commit 32795f437c79d04dacc493c6a9f2a1fce48fbd6b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:18:05 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy' 2
+
+commit cc1bfd0a5bd80d8dd55e3c014a539883a0115b8d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:16:25 2016 -0600
+
+    Actualización de imágenes en 'Samsung presenta nuevos Galaxy'
+
+commit 376cd8196a21ab7843fba3c6ee7ccd094952d1ee
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 22 13:12:06 2016 -0600
+
+    Nuevo artículo 'Samsung presenta nuevos Galaxy'
+
+commit 42251569410f820002987e6e6f295069f585542b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:45:17 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 4
+
+commit a5950e759422f898358b4744bc77a779dfd3dfa8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:43:50 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 3
+
+commit 2ce88485d21516bfd84fcd2aaf76b5ac5e914c90
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:40:41 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto 2
+
+commit 89d2165a7e0e4b74fc076f6cb37bfa04a32d8e9e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:37:44 2016 -0600
+
+    Cambios en los estilos de los inputs del formulario en Contacto
+
+commit bfe0fadfe82432bf4455bc074ce50ebcae652e6d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 23:29:38 2016 -0600
+
+    Ajustes al tamño del formulario en Contacto para móviles
+
+commit 91e4f9842360be7fea133571a717beb99f21e828
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 16:23:13 2016 -0600
+
+    Creación del formulario para el contacto del cliente
+
+commit 7506f90d745ad115a6dd0ef6925d82964b0e8c33
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 14:54:40 2016 -0600
+
+    Eliminación de Bootstrap en la url de Contacto
+
+commit 2ad2508520e32db40934bb75d853b485d08c48a2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 20 14:52:32 2016 -0600
+
+    Bootstrap en la url de Contacto
+
+commit 4241d6444a0865e1f9a42da8a158648c301cf879
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 16 23:47:14 2016 -0600
+
+    Nuevo artículo 'Tidal se convirtió en la app más descargada de la App Store'
+
+commit bb8ca098c800b3741b604ffeae73e69ec20b7550
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:18:41 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper' 3
+
+commit ebbdfbad6555add91adbd782bb736ffe09bad0aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:18:13 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper' 2
+
+commit ef159746865b18b3ae143fcabf919835ad21c1b5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 12 23:15:58 2016 -0600
+
+    Nuevo artículo 'Asics adquiere Runkeeper'
+
+commit bbc16e625b5470b3ed3b4da3ab597837777ec30e
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:10:39 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas' 3
+
+commit 55397e48e5e22b64c6630f9124935a55e26ecd78
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:04:19 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas' 2
+
+commit 45b43618523e37932bfc48417e9231398d02e46d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Feb 11 10:01:05 2016 -0600
+
+    Nuevo artículo 'Mark Zuckerberg respondió a los comentarios de uno de sus inversionistas'
+
+commit 45602517660dec944b90b8edf94c1524af0f7bf3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 10 22:19:18 2016 -0600
+
+    Alineado de media en 'Nuevo timeline en Twitter'
+
+commit 4062de562c82527a39d9b1ae1c51cafc349d802f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 10 22:17:47 2016 -0600
+
+    Nuevo artículo 'Nuevo timeline en Twitter'
+
+commit f187c6d9918a30d26149bc7686daf37d21e5a4cc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 9 22:57:30 2016 -0600
+
+    No hay cambios
+
+commit 874876b06e4428a0860aa4d99f463f5a5f84fe56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:42:20 2016 -0600
+
+    Nuevo artículo 'Twitter no cambiará su timeline' 2
+
+commit 0a6558282f6348df9cdced2b83e34c26ca7bd55b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:41:07 2016 -0600
+
+    Nuevo artículo 'Twitter no cambiará su timeline'
+
+commit 7fd5aa3db05a1c1e894d04675a70b99d3406b03b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 18:04:28 2016 -0600
+
+    Nuevo artículo 'Instagram agrega soporte para múltiples cuentas'
+
+commit 0860994f8fec3d8a5328950021a13e365a847c97
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 8 17:34:37 2016 -0600
+
+    Actualización en la dirección de contact.html
+
+commit 82128d4ac88bc9cc69b62f1b5e1aaff8a6d48854
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 22:37:59 2016 -0600
+
+    Nueva funcionalidad del botón contact en el menú
+
+commit b39e2624c5cb61349e740a360fb95c4fa96716f3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:38:29 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 5
+
+commit 3313ccb31a24b8ec65ca6ae27473c59f347906ad
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:37:16 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 4
+
+commit c0ee7113ae7e076e7139e123bd9b33bee2eacd32
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:35:36 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 3
+
+commit 6082d359d132a30c3ef6fcd19c615371902f177b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:33:45 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps' 2
+
+commit b8eb6e40dd91e7ab1016631a781d57321361f2b7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sat Feb 6 20:29:18 2016 -0600
+
+    Nuevo artículo 'Amazon Echo integra nuevas apps'
+
+commit 81b40ffda001f515fe3614c172604279552af3f0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:35:45 2016 -0600
+
+    Nuevo artículo: Facebook cumple 12 años 2
+
+commit 2897ed14626f0ac4747b76195a0cafdef97229a2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:23:36 2016 -0600
+
+    Cambio en los share buttons
+
+commit b74b737dd7ca6c580a111fe08de3673445cba5c2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:21:12 2016 -0600
+
+    Modificacion de imagenes en 'Facebook cumple 12 años'
+
+commit 6cc6715cc463682c2ed194300174826587e32de1
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Feb 5 14:19:43 2016 -0600
+
+    Nuevo artículo: Facebook cumple 12 años
+
+commit 712e50975f0cadc6f0ca71fea01e5fd1cb15683f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:11:45 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig' 3
+
+commit 0029ee8f2df128c0ac9aa47eb8924b5174c831ea
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:10:31 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig' 2
+
+commit 72aeba6bf2fba623f4dca9eaf130f1288a09d804
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Feb 3 12:10:07 2016 -0600
+
+    Nuevo artículo 'Uber cambia de logo y brandig'
+
+commit 7b83d367115d981e35c42a0101fe71316ff3ee29
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:55:10 2016 -0600
+
+    Nuevos icon
+
+commit f5d68d55145a83b42f44ee05cd28b4fefecd6b0b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:51:20 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo' 3
+
+commit 347df99dea3a4f1f6ede07463152cd0523bd8f42
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:25:04 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo' 2
+
+commit 6d40277bdbe72c761ab6efc2539f64373312681d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:24:14 2016 -0600
+
+    Nuevo articulo 'Alphabet es ahora la compañia mas valiosa del mundo'
+
+commit f735475eca4605ac6b82bf7af09b34c06fbd4a56
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Feb 2 08:19:40 2016 -0600
+
+    Nuevos artículos: 'Gmail y WhatsApp llegan a los 1000 millones de usuarios'
+
+commit 80a6cbbe9162468a00b38499f6293f7e8f0cfa00
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 11:01:04 2016 -0600
+
+    Cambios en el menu para moviles
+
+commit 58965b7bc7a0579f226ae84f0d7d09e90ab63a96
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 10:40:03 2016 -0600
+
+    Cambios en el menú para móviles
+
+commit bdb64be6bb316a3c8ade991353c706e207957013
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Feb 1 00:56:24 2016 -0600
+
+    Ultimo commit
+
 commit 64811550badf185c87e392ebf6ff0634f433b47b
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Mon Feb 1 00:45:50 2016 -0600
