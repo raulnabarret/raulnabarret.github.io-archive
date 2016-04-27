@@ -87,7 +87,7 @@ footer {
 .header {
 	text-align: center;
 	padding-top: 75px;
-	background-image: url("../header-cover.png") no-repeat center; 
+	background-image: url("../media/header-cover.png") no-repeat center; 
 	background-size: cover;  
 	height: 375px;
 	color: white;
