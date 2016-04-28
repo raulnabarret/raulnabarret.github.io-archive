@@ -1,3 +1,189 @@
+commit 618da8af9cfe570388e641d71220d31159782c64
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:53:15 2016 -0500
+
+    Cambio de cover en el header
+
+commit b48517d04ffa850da47a33f8748ab594a9c69390
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:50:11 2016 -0500
+
+    Cambio de cover en el header
+
+commit 3ca4caaffa6427eed30a85ef2d9638ccc0eafb27
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:47:58 2016 -0500
+
+    Cambio de cover en el header
+
+commit b45922a80f5361040a0d4356dc21792a8afb5603
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 26 21:45:26 2016 -0500
+
+    Cambio de cover en el header
+
+commit 403343d82ca3c8e9323d9017b661c1ed8a0a95b6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:55:58 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 4
+
+commit 2a6c471d944263955311815d1326845db20c7e8c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:54:11 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 3
+
+commit 81c35255dad295fd8f3f3490f055715b14b78830
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:53:07 2016 -0600
+
+    Nuevo artículo 'Apple event 2016' 2
+
+commit 6836f3f332b4996250e1394393fc4c570c441532
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Mar 21 20:48:59 2016 -0600
+
+    Nuevo artículo 'Apple event 2016'
+
+commit 832c37cc5f2296d0b666632092048f7f17323311
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:11:50 2016 -0600
+
+    Nuevo artículo 'Instagram cambiará la manera en que ves tus fotos' 2
+
+commit 001d23662b9764ff70c2b29f29d743ac5d67a029
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 22:11:12 2016 -0600
+
+    Nuevo artículo 'Instagram cambiará la manera en que ves tus fotos'
+
+commit 36cce27f46751d213d62ac884b314c7c7de37236
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 16:47:48 2016 -0600
+
+    Nuevo artículo 'UberEATS es lanzado hoy en USA' 2
+
+commit e75f9729848348d6bcd1df58e5f97c154eefa99f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 16:19:52 2016 -0600
+
+    Nuevo artículo 'UberEATS es lanzado hoy en USA'
+
+commit 01da7897ac5148c703a2be102053b0284590406d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 14:54:30 2016 -0600
+
+    Nuevo artículo 'Google Maps agrega más servicios de taxi en su app' 2
+
+commit 26ec0ed842c5f5d7c08be7c0f36789295930bfef
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 15 14:53:22 2016 -0600
+
+    Nuevo artículo 'Google Maps agrega más servicios de taxi en su app'
+
+commit 57d8c200caa24490ab3e28afe0ab84b5dc72d3bb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Mar 11 19:22:56 2016 -0600
+
+    Nuevo artículo 'Facebook Messenger pronto para Windows 10'
+
+commit 484fdf6bc578c09a9d6b8a38c915a0cec75ec19d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 13:03:11 2016 -0600
+
+    Nuevo artículo 'Apple anuncia su evento el 21 de marzo'
+
+commit 6fa75bde65f648c76b205543ab23a30edbce3f22
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:45:50 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 5
+
+commit d36f9dcc733a06d30e7a8fa65e2cab1f297b3ef6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:40:39 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 4
+
+commit 838a94cc32a961d9b6b8852e4205405ecb214c72
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:39:43 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 3
+
+commit f0e4d424387d1a58c9184cca4592bfeb215b698b
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:38:49 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido' 2
+
+commit 51887dc9cb9114b3299200de50dc8f1e49e75721
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 10 12:33:00 2016 -0600
+
+    Nuevo artículo 'Facebook Lite, la app de crecimiento más rápido'
+
+commit 7036de8ec330760f53f57b030765b7bca878b24c
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:55:16 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen' 3
+
+commit d70bea8b6da155721ce2a26355f42ebaaeabbe75
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:53:18 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen' 2
+
+commit 4bcf0842c80d5f624b0c3657f21f3e279ca05b13
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 22:51:48 2016 -0600
+
+    Nuevo artículo 'Snapchat para iOS cambió ligeramente su imagen'
+
+commit 23503679823ac5007303e00c8fb2480b555a63f5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:12:57 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 4
+
+commit 777c356e67c5ac17836d1bbf2b74e26eb1e24ff0
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:09:34 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 3
+
+commit d66f405fb05f7eefc20a86b0c877cdbc7fc25dc6
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:08:56 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N' 2
+
+commit 6c1d485a51edca330e871c3b20012febd69b3e1a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 9 20:07:50 2016 -0600
+
+    Nuevo artículo 'Google da un adelanto de Android N'
+
+commit bc99176f041cfec457ace0c41d690d34ae3e1c08
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Mar 8 23:53:09 2016 -0600
+
+    Nuevo artículo 'Facebook planea abrir Messenger para Editores'
+
+commit 64009114b7617bfc33497f8f782cfef3706f6151
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Mar 3 12:04:12 2016 -0600
+
+    Nuevo artículo 'Slack introduce llamadas a su servicio'
+
+commit 2835bfdee23c016f24c850d9a1edb2c5c9b81884
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Mar 2 22:52:47 2016 -0600
+
+    Actualización del log al día 2 de marzo de 2015
+
 commit 0062653c34d9fff33b70150a6a6787dbab8994b7
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Tue Mar 1 13:57:40 2016 -0600
