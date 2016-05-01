@@ -1,3 +1,9 @@
+commit b931e83ef6bc95c90ba9945a9ed64d9516568c40
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Apr 27 22:50:37 2016 -0500
+
+    Bitácora de commits al 27 de abril de 2016
+
 commit 618da8af9cfe570388e641d71220d31159782c64
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Tue Apr 26 21:53:15 2016 -0500
