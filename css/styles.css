@@ -1,13 +1,16 @@
-
-
 nav .brand-logo {
-    color: #424242;
-}
-  
+  color: #424242;
+  padding: 0 0 0 20px; }
+
 nav ul a {
-    color: #424242;
-}
-  
+  color: #424242; }
+
 nav .button-collapse i {
-    color: #757575;
-}
+  color: #757575; }
+
+/*Containers */
+article {
+  margin-top: 100px;
+  margin-bottom: 0; }
+
+/*# sourceMappingURL=styles.css.map */
