@@ -1,0 +1,19 @@
+{
+  "name": "raulnabarret",
+  "version": "2.0.0",
+  "description": "My personal website",
+  "main": "jquery.twbsPagination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulnabarret/raulnabarret.github.io.git"
+  },
+  "author": "Raúl Nabarret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulnabarret/raulnabarret.github.io/issues"
+  },
+  "homepage": "https://github.com/raulnabarret/raulnabarret.github.io#readme"
+}
