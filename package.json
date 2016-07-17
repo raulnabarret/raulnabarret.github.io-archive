@@ -4,7 +4,7 @@
   "description": "My personal website",
   "main": "",
   "scripts": {
-    "serve": "http server .",
+    "serve": "http-server .",
     "sass": "sass --watch app/:css/"
   },
   "repository": {
