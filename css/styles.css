@@ -13,4 +13,43 @@ article {
   margin-top: 100px;
   margin-bottom: 0; }
 
+/*Footer */
+.info-title {
+  color: #fff;
+  font-weight: 300; }
+
+.info-content {
+  padding-left: 15px; }
+
+.info-content div {
+  display: flex;
+  justify-content: flex-start; }
+
+.info-description,
+.info-location {
+  font-weight: 200;
+  margin: 0; }
+
+.info-legal {
+  margin-left: 0;
+  margin-right: 10px; }
+
+.info-legal,
+.info-privacy {
+  display: inline-block;
+  margin-right: 10px; }
+
+.networks-title {
+  color: #fff;
+  font-weight: 300; }
+
+.networks-items {
+  padding-left: 15px; }
+
+.networks-item {
+  font-weight: 300; }
+
+.networks-item span {
+  padding-right: 7px; }
+
 /*# sourceMappingURL=styles.css.map */
