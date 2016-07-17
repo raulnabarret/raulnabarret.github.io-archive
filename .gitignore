@@ -1,3 +1,4 @@
-npm_modules/
 npm-debug.log
+npm_modules/
 package.json
+.sass-cache/
