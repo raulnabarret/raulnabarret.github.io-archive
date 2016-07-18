@@ -31,17 +31,33 @@ article {
 .contact-title {
   padding: 15px 15px; }
 
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.contact-info p {
+  font-size: 18px;
+  font-weight: 200;
+  margin: 5px;
+  padding-left: 25px; }
+  .contact-info p span {
+    padding-right: 10px; }
+  .contact-info p a {
+    color: #fff;
+    text-decoration: none; }
+
 .map-container {
   padding: 0 !important; }
 
 #map {
   width: 100%;
-  height: 400px;
+  height: 300px;
   background-color: #a7ffeb; }
 
 .contact-container {
   width: 100%;
-  height: 400px; }
+  height: 300px; }
 
 /*Footer */
 footer.page-footer {
