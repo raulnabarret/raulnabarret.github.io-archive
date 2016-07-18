@@ -4,6 +4,9 @@ $(document).ready(function() {
 		closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
 	})
 
+    $('.scrollspy').scrollSpy()
+
+
 	$('.info-legal').click(function(e) {
 		e.preventDefault()
 	})
