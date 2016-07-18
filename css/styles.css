@@ -67,7 +67,8 @@ footer.page-footer {
   padding-left: 15px; }
 
 .networks-item {
-  font-weight: 300; }
+  font-weight: 300;
+  margin: 5px 0; }
 
 .networks-item span {
   padding-right: 7px; }
