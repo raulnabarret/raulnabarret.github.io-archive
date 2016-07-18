@@ -9,6 +9,10 @@ nav .button-collapse i {
   color: #757575;
   padding-left: 20px; }
 
+header {
+  height: 100vh;
+  width: 100%; }
+
 /*Containers */
 article {
   margin-top: 100px;
