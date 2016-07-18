@@ -38,7 +38,7 @@ article {
 
 .contact-info p {
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   margin: 5px;
   padding-left: 25px; }
   .contact-info p span {
@@ -52,7 +52,7 @@ article {
 
 #map {
   width: 100%;
-  height: 300px;
+  height: 400px;
   background-color: #a7ffeb; }
 
 .contact-container {
@@ -86,6 +86,7 @@ footer.page-footer {
 
 .info-legal,
 .info-privacy {
+  color: #00BFA5;
   display: inline-block;
   margin-right: 20px; }
 
