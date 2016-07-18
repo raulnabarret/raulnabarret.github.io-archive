@@ -183,19 +183,17 @@
             </div>
         </div>
     </div>
-    <div class="row map">
-
-      <div class="col s12 m6 l6 teal accent-4">
-        <!-- Promo Content 1 goes here -->
-        <div id="map">
-            
+    <div class="row contact">
+        <div class="col s12 m6 l6 teal accent-1 map-container">
+            <!-- Promo Content 1 goes here -->
+            <div class="map" id="map">
+    
+            </div>
         </div>
-      </div>
-      <div class="col s12 m6 l6 teal accent-1">
-        <!-- Promo Content 2 goes here -->
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime sequi reiciendis explicabo incidunt, tempore praesentium perspiciatis placeat modi unde! Expedita ipsum, optio, dignissimos deleniti, officia quasi veniam aut pariatur quis consequuntur culpa alias, sunt adipisci! Numquam quod distinctio omnis at sapiente accusantium animi quia tenetur velit perferendis esse quos enim nisi ratione iste quas vel expedita debitis, vero delectus. Cumque, fuga amet reiciendis expedita asperiores nisi error itaque officiis id provident illum ut, pariatur deserunt excepturi non nemo numquam nobis aliquam dicta nihil. Veritatis, cum. Praesentium, perspiciatis voluptas rerum eligendi perferendis provident dolor eveniet dolorum ipsam nisi! Est, magni, aliquam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate perferendis voluptatum quo ratione similique ipsa non molestias perspiciatis delectus itaque magni expedita voluptate, animi minima tempore, quam vel. Sapiente tempore numquam repudiandae reprehenderit adipisci, asperiores voluptatum vel ad ipsam dolores soluta doloremque consequuntur? Perferendis, blanditiis nihil qui voluptatem vitae natus nemo cupiditate quae unde iure aliquam earum, consectetur, quisquam id laboriosam quaerat amet facere. Velit voluptate ex harum dolores, a doloremque dignissimos necessitatibus vero excepturi in sint libero maxime qui, saepe recusandae voluptas expedita modi ipsam corrupti voluptatum ipsum laboriosam quo iste numquam dicta. Ducimus ipsa voluptatibus, repellat cum tenetur.
-      </div>
+        <div class="col s12 m6 l6 teal accent-4 contact-container">
+            <!-- Promo Content 2 goes here -->
 
+        </div>
     </div>
     <footer class="page-footer grey darken-3">
         <div class="container">
@@ -209,7 +207,6 @@
                             <p><a class="info-legal" href="#">LEGAL NOTICE</a></p>
                             <p><a class="info-privacy" href="#">PRIVACY POLICY</a></p>
                         </div>
-
                     </div>
                 </div>
                 <div class="col offset-l2 s12 m6 l4 page-footer-networks">
@@ -225,7 +222,6 @@
                         <li class="networks-item"><a class="grey-text text-lighten-3" target="_blank" href="http://www.medium.com/@raulnabarret"><span class="icon-medium"></span> Medium</a></li>
                     </ul>
                 </div>
-
             </div>
         </div>
         <div class="footer-copyright">
@@ -234,10 +230,27 @@
             </div>
         </div>
     </footer>
+    <script>
+
+        function initMap() { 
+            var mapDiv = document.getElementById('map')
+            var map = new google.maps.Map(mapDiv, { 
+                center: {
+                    lat: 25.651130, 
+                    lng: -100.289851
+                }, zoom: 15,
+                zoomControl: false
+            }) 
+        }
+
+    </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMgWPhjBU6qsShPoPu40gytyax_MA-GFM&callback=initMap"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQtuwjeA1BVhNxxjHnKxu_kxKQktG0HzI&callback=initMap"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script>
+
+    </script>
 </body>
 
 </html>
