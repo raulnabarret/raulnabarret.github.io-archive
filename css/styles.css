@@ -40,6 +40,8 @@ header {
   display: flex;
   justify-content: space-around;
   padding: 30px; }
+  .header-networks span {
+    font-weight: 200; }
 
 /*Containers */
 article {
