@@ -3,19 +3,25 @@
 <meta charset="UTF-8">
 
 <head>
+    <!-- Meta Viewport -->
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.">
+    <!-- Materialize Icons -->
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Materialize Minified -->
     <link rel="stylesheet" type="text/css" href="css/materialize.min.css" media="screen,projection" />
+    <!-- Estilos -->
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <title>Raul Nabarret</title>
 </head>
 
 <body>
+    <!-- Menu -->
     <div class="navbar-fixed">
         <nav>
             <div class="nav-wrapper grey lighten-4">
                 <a href="#Header" class="brand-logo">Raúl Nabarret</a>
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                <!-- Menu Desktop-->
                 <ul class="right hide-on-med-and-down table-of-contents">
                     <li><a href="#Experience">Experience</a></li>
                     <li><a href="#Projects">Projects</a></li>
@@ -23,6 +29,7 @@
                     <li><a href="#Education">Education</a></li>
                     <li><a href="#Contact">Contact</a></li>
                 </ul>
+                <!-- Menu Moviles-->
                 <ul class="side-nav" id="mobile-demo">
                     <li>
                         <a href="#Experience"> <span class="icon-briefcase"></span> Experience</a>
@@ -43,16 +50,22 @@
             </div>
         </nav>
     </div>
+    <!-- Termina Menu -->
+    <!-- Header -->
     <header id="Header" class="teal darken-4">
         <div class="container">
+            <!-- Header -->
             <div class="header">
+                <!-- Header Image -->
                 <div class="header-image">
                     <img src="media/profile.jpg" class="z-depth-2" alt="">
                 </div>
+                <!-- Header Description -->
                 <div class="header-description">
                     <h1>Raúl Nabarret</h1>
                     <h3>Front-end Web developer, tech passionate, food lover, morning runner</h3>
                 </div>
+                <!-- Header Networks -->
                 <div class="header-networks">
                     <div class="">
                         <a class="grey-text text-lighten-3" target="_blank" href="http://www.facebook.com/raulnabarret"><span class="icon-facebook"></span><span class="hide-on-med-and-down"> Facebook</span></a>
@@ -80,11 +93,15 @@
                     </div>
                 </div>
             </div>
+            <!-- Termina Header -->
         </div>
         </div>
     </header>
+    <!--Termina Header -->
+    <!-- Layout -->
     <div class="layout container">
         <div class="divider"></div>
+        <!-- Section Experience -->
         <div class="section scrollspy" id="Experience">
             <h5><span class="icon-briefcase"></span> Experience</h5>
             <div class="row">
@@ -100,7 +117,9 @@
                 </div>
             </div>
         </div>
+        <!-- Termina Section Experience -->
         <div class="divider"></div>
+        <!-- Section Projects -->
         <div class="section scrollspy" id="Projects">
             <h5><span class="icon-wrench"></span> Projects</h5>
             <div class="row">
@@ -128,7 +147,9 @@
                 </div>
             </div>
         </div>
+        <!-- Termina Section Projects -->
         <div class="divider"></div>
+        <!-- Section Certifications -->
         <div class="section scrollspy" id="Certifications">
             <h5><span class="icon-award-fill"></span> Certifications</h5>
             <div class="row">
@@ -253,7 +274,9 @@
                 </div>
             </div>
         </div>
+        <!-- Termina Section Certifications -->
         <div class="divider"></div>
+        <!-- Section Education -->
         <div class="section scrollspy" id="Education">
             <h5><span class="icon-school"></span> Education</h5>
             <div class="row">
@@ -293,12 +316,17 @@
                 </div>
             </div>
         </div>
+        <!-- Termina Section Education -->
         <div class="divider"></div>
     </div>
+    <!-- Termina Layout -->
+    <!-- Contact -->
     <div class="row contact scrollspy" id="Contact">
+        <!-- Contact Map -->
         <div class="col s12 m6 l6 teal accent-1 map-container">
             <div class="map" id="map"></div>
         </div>
+        <!-- Contact Info -->
         <div class="col s12 m6 l6 teal accent-4 contact-container">
             <div class="contact-info s12 m12 l12">
                 <h5 class="white-text contact-title">Contact Me</h5>
@@ -317,9 +345,13 @@
             </form>
         </div>
     </div>
+    <!-- Termina Contact -->
+    <!-- Footer -->
     <footer class="page-footer grey darken-3">
+        <!-- Container Info -->
         <div class="container">
             <div class="row">
+                <!-- Footer-Info -->
                 <div class="col s12 m6 l6 page-footer-info">
                     <h5 class="info-title">Raúl <br> Nabarret</h5>
                     <div class="info-content">
@@ -331,6 +363,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- Footer-Networks -->
                 <div class="col offset-l2 s12 m6 l4 page-footer-networks">
                     <h5 class="networks-title">Social <br>Networks</h5>
                     <div class="networks-items col s6 m6 l6">
@@ -348,12 +381,15 @@
                 </div>
             </div>
         </div>
+        <!-- Container Copyright -->
         <div class="footer-copyright">
             <div class="container">
                 Copyright © 2016 Raúl Nabarret
             </div>
         </div>
     </footer>
+    <!-- Termina Footer -->
+    <!-- Script Google Maps -->
     <script>
     function initMap() {
         var mapDiv = document.getElementById('map')
@@ -497,9 +533,14 @@
 
     }
     </script>
+    <!--Termina Script Google Maps -->
+    <!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <!-- Javascript del proyecto -->
     <script type="text/javascript" src="js/app.js"></script>
+    <!-- API de Google Maps -->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQtuwjeA1BVhNxxjHnKxu_kxKQktG0HzI&callback=initMap"></script>
+    <!-- Materialize Javascript -->
     <script type="text/javascript" src="js/materialize.min.js"></script>
 </body>
 
