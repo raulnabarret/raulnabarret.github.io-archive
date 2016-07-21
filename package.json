@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "serve": "http-server .",
-    "sass": "sass --watch app/:css/"
+    "sass": "sass --watch app/:css/ --style compressed"
   },
   "repository": {
     "type": "git",
