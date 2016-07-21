@@ -6,6 +6,9 @@ $(document).ready(function() {
 
     $('.scrollspy').scrollSpy()
 
+    $('.card-title a').click(function(e) {
+    	e.preventDefault()
+    })
 
 	$('.info-legal').click(function(e) {
 		e.preventDefault()
